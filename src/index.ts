@@ -1,1 +1,3 @@
-console.log('Hello world!');
+import AdapterPattern from './sctructural-patterns/Adapter';
+
+AdapterPattern();
