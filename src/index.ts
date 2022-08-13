@@ -5,11 +5,14 @@ import FacadePattern from './sctructural-patterns/Facade';
 import ProxyPattern from './sctructural-patterns/Proxy';
 import ChainOfResponsibility from './behavioral-patterns/ChaintOfResponsibility';
 import Observer from './behavioral-patterns/Observer';
+import State from './behavioral-patterns/State';
 
-AdapterPattern();
-DecoratorPattern();
-FacadePattern();
-ProxyPattern();
+// AdapterPattern();
+// DecoratorPattern();
+// FacadePattern();
+// ProxyPattern();
 
-ChainOfResponsibility();
-Observer();
+// ChainOfResponsibility();
+// Observer();
+
+State();
