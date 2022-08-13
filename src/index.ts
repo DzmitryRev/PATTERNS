@@ -6,6 +6,7 @@ import ProxyPattern from './sctructural-patterns/Proxy';
 import ChainOfResponsibility from './behavioral-patterns/ChaintOfResponsibility';
 import Observer from './behavioral-patterns/Observer';
 import State from './behavioral-patterns/State';
+import Iterator from './behavioral-patterns/Iterator';
 
 // AdapterPattern();
 // DecoratorPattern();
@@ -15,4 +16,6 @@ import State from './behavioral-patterns/State';
 // ChainOfResponsibility();
 // Observer();
 
-State();
+// State();
+
+Iterator();
