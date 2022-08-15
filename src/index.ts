@@ -18,4 +18,10 @@ import Iterator from './behavioral-patterns/Iterator';
 
 // State();
 
-Iterator();
+// Iterator();
+
+// history.pushState(null, null, 'https://google.com');
+
+window.addEventListener('popstate', (e) => {
+  console.log(e.state);
+});
